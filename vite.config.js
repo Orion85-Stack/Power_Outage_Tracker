@@ -10,5 +10,5 @@ export default defineConfig({
   // so assets need this prefix. Change 'outage-tracker' to your actual
   // repo name (or set to '/' if using a username.github.io repo or a
   // custom domain).
-  base: '/',
+  base: '/Power_Outage_Tracker/',
 });
